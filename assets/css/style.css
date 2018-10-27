@@ -16,7 +16,7 @@ body {
 
 .header a {
   float: left;
-  color: black;
+  color: white;
   text-align: center;
   padding: 12px;
   text-decoration: none;
@@ -115,7 +115,7 @@ a {
     color: red;  
 }
 h2 {
-    border-bottom: 6px solid gray;
+    border-bottom: 6px solid #cccccc;
     background-color: white;
 }
 .footer {
